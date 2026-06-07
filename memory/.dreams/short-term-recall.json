@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-03T11:49:04.593Z",
+  "entries": {
+    "memory:memory/2026-05-01.md:1:41": {
+      "key": "memory:memory/2026-05-01.md:1:41",
+      "path": "memory/2026-05-01.md",
+      "startLine": 1,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "# 2026-05-01 Memory Log ## 2026 Miami Grand Prix — FIA Documents Marathon Today was a busy day processing FIA documents from the Miami GP weekend. All analysis done in Cantonese (廣東話) per SOUL.md persona (Daniel Chan / 陳恩能 style). ### Key Findings Across Documents (Doc 8-24): **Doc 8 — Car Presentation Submissions:** - Ferrari: BIGGEST upgrade package (11 components) — full aero overhaul - McLaren: 7 components, new floor + rear wing - Red Bull: 7 components, sidepod-to-floor integration - Mercedes: Only 2 updates (tailpipe + front drum lip) — minimal, settled package - Alpine: 6 components updated **Doc 10 — Self Scrutineering:** - All 11 teams submitted on time - New 2026 teams: Cadil",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-03T03:02:17.385Z",
+      "lastRecalledAt": "2026-05-03T03:02:17.385Z",
+      "queryHashes": [
+        "cb60ac34620e"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "8-24",
+        "sidepod-to-floor",
+        "log",
+        "miami",
+        "grand",
+        "prix",
+        "fia"
+      ]
+    },
+    "memory:memory/2026-05-01.md:65:93": {
+      "key": "memory:memory/2026-05-01.md:65:93",
+      "path": "memory/2026-05-01.md",
+      "startLine": 65,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "- Albon already had 5 track limits deletions in FP1 ### Weather Watch (Vincent requested): - Sunday race day: Rain predicted ALL DAY in Miami - Heaviest rain at 6 PM (11.9mm) — could coincide with race end - Wind NE 20-34 km/h - Wet race strategy crucial ### User Requests: - Vincent asked for Cantonese summaries (reminded me when sub-agent raw English leaked) - Vincent asked to monitor Miami Sunday weather for race impact - John Ho asked about FIA minimum time gap between qualifying and race (answer: no specific rule, just day separation — Q on day 2, race on day 3) ### Technical Notes: - Sub-agent protocol for FIA document bot images works well but sometimes slow (25+ min) - Sub-agent co",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-03T03:02:17.385Z",
+      "lastRecalledAt": "2026-05-03T03:02:17.385Z",
+      "queryHashes": [
+        "cb60ac34620e"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "11.9mm",
+        "20-34",
+        "km/h",
+        "sub-agent",
+        "albon",
+        "already",
+        "had",
+        "track"
+      ]
+    },
+    "memory:memory/2026-05-01.md:31:74": {
+      "key": "memory:memory/2026-05-01.md:31:74",
+      "path": "memory/2026-05-01.md",
+      "startLine": 31,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "- Antonelli: Added new ES + CE after FP1 (Doc 22) **Doc 16 — SC Times:** - Max lap time between SC lines: 1:48.0 **Doc 17 — FP1 Deleted Lap Times (Track Limits):** - Albon & Norris: 5 infractions each (most) - Audi duo: Bortoleto 4x, Hülkenberg 4x - T1 and T15 most common violation points **Doc 18 — Double Yellow Flag Violations (FP1):** - Perez, Piastri, Hülkenberg failed to slow under double yellows **Doc 19 — FP1 Classification:** - P1 Leclerc (1:29.310), P2 Verstappen, P3 Piastri - Aston Martin bottom: Alonso P19, Stroll P22 **Doc 20 — Race Director Notes V2:** - T19 track limits: violation deletes CURRENT lap + NEXT lap (double deletion!) - SC restart procedure at T9 - Qualifying r",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-03T03:02:17.385Z",
+      "lastRecalledAt": "2026-05-03T03:02:17.385Z",
+      "queryHashes": [
+        "cb60ac34620e"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "48.0",
+        "29.310",
+        "antonelli",
+        "added",
+        "new",
+        "fp1",
+        "doc",
+        "times"
+      ]
+    },
+    "memory:memory/2026-05-01.md:88:106": {
+      "key": "memory:memory/2026-05-01.md:88:106",
+      "path": "memory/2026-05-01.md",
+      "startLine": 88,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "- POTENTIAL grid penalty if found guilty — could lose Sprint pole! - This is a major story: the SQ pole sitter under investigation for unnecessary slow driving **Doc 26 — SQ Deleted Lap Times (Track Limits):** - Hülkenberg: 1 violation (T5, out lap) — total today: 6 violations across FP1+SQ! - Stroll: 2 violations (T17, T5) - Alonso: 2 violations (T5, T11) — Aston Martin nightmare continues - Sainz: 2 violations (T5) - Lindblad: 1 (T17) - Hadjar: 1 (T6) — deleted 1:30.013 which could have been SQ3-worthy - T5 confirmed as the biggest trouble spot of the day ### Updated Weekend Storylines: - **Aston Martin = DISASTER**: Alonso failed 107%, Stroll bottom in FP1, both have multiple SQ deletio",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-03T03:02:17.385Z",
+      "lastRecalledAt": "2026-05-03T03:02:17.385Z",
+      "queryHashes": [
+        "cb60ac34620e"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "30.013",
+        "sq3-worthy",
+        "potential",
+        "grid",
+        "penalty",
+        "found",
+        "guilty",
+        "lose"
+      ]
+    },
+    "memory:memory/2026-03-22.md:1:4": {
+      "key": "memory:memory/2026-03-22.md:1:4",
+      "path": "memory/2026-03-22.md",
+      "startLine": 1,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "# 2026-03-22 - Vincent added an FIA document bot to the Discord channel `#danonthemove-test`. - Instruction: I need to summarize any FIA documents posted by this bot in the channel. - Note: I reminded him to @ me if I don't automatically trigger, just to ensure I see the bot's messages.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-03T11:48:52.209Z",
+      "lastRecalledAt": "2026-05-03T11:49:04.593Z",
+      "queryHashes": [
+        "5837d6451513",
+        "8a693dbf0b7a"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "danonthemove-test",
+        "vincent",
+        "added",
+        "fia",
+        "document",
+        "bot",
+        "discord",
+        "channel"
+      ]
+    }
+  }
+}
